@@ -1,1 +1,0 @@
-Open html FILE and enter the money spent, rewards are calculated and displayed in Html file
